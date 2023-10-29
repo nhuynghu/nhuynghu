@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**nhuynghu/nhuynghu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ByiabPgCu4oSc/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/nhuy-nguyen-0107ny0107/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Profile-red?style=for-the-badge&logo=profile&logoColor=white" alt="Profile Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+- 🔭 I'm currently a PhD Candidate in Economics at City, University of London
+- 📫 How to reach me: nhuynghu.tgvn@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
