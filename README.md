@@ -11,6 +11,6 @@
   </a>
 </div>
 
-- 📃 I'm currently a PhD Candidate in Economics at City, University of London
+- 📃 PhD in Economics at City, University of London
 - 📫 nhuynghu.tgvn@gmail.com
 
